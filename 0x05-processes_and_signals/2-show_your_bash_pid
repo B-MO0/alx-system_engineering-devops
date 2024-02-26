@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#how_your_bash_pid
+
+ps -aux | grep bash
