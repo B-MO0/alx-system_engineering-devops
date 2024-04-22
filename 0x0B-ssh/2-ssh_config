@@ -1,0 +1,6 @@
+Host web01
+     HostName 98.98.98.98
+     User ubuntu
+     StrictHostKeyChecking no
+     PasswordAuthentication no
+     IdentityFile ~/.ssh/school
